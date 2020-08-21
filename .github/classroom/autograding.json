@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test puntos A_F",
+      "setup": "",
+      "run": "gradle test --tests *TestA_F",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test puntos G_L",
+      "setup": "",
+      "run": "gradle test --tests *TestG_L",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test puntos M_P",
+      "setup": "",
+      "run": "gradle test --tests *TestM_P",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test parteB",
+      "setup": "",
+      "run": "gradle test --tests *TestParteB",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
