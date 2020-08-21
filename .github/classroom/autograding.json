@@ -21,9 +21,9 @@
       "points": 10
     },
     {
-      "name": "Test puntos M_P",
+      "name": "Test puntos M_O",
       "setup": "",
-      "run": "gradle test --tests *TestM_P",
+      "run": "gradle test --tests *TestM_O",
       "input": "",
       "output": "",
       "comparison": "included",
